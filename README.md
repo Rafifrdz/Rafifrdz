@@ -1,65 +1,248 @@
-# 👋 Hi, I'm Rafi Firdaus
+<div align="center">
 
-<p align="center">
-  <img src="banner.gif" width="100%" />
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0040,50:8000ff,100:00d4ff&height=220&section=header&text=RAFI%20FIRDAUS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🔥%20Fullstack%20Engineer%20•%20AI%20Architect%20•%20Cyber%20Enthusiast%20🔥&descAlignY=55&descSize=18" width="100%" />
 
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8000FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%92%80+I+Don't+Just+Write+Code%2C+I+Engineer+Universes;%F0%9F%A7%A0+AI+Whisperer+%7C+Full+Stack+Dominator+%7C+Gamer;%F0%9F%94%A5+If+It+Exists%2C+I+Can+Build+It.+Period." alt="Typing SVG" /></a>
 
+<br/>
 
-I’m Rafi Firdaus, an Information Technology student with a strong interest in frontend development. I enjoy building web interfaces that are not only visually appealing but also intuitive and easy to use.
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=Rafifrdz&label=PROFILE+STALKERS&color=blueviolet&style=for-the-badge" />
+<a href="https://github.com/Rafifrdz?tab=followers"><img src="https://img.shields.io/github/followers/Rafifrdz?label=Followers&style=for-the-badge&color=ff0040&labelColor=1a1a2e" /></a>
+<a href="https://github.com/Rafifrdz?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Check%20Them-00d4ff?style=for-the-badge&labelColor=1a1a2e" /></a>
 
-I have a solid foundation in JavaScript and continue to explore modern frontend technologies, especially working with frameworks like React, Vite, and Next.js. For me, frontend isn’t just about making things look good, but making sure users get a smooth and enjoyable experience.
+</div>
 
-I’m someone who learns fast and adapts quickly, especially in a fast-changing tech environment. I also enjoy collaborating with others, sharing ideas, and continuously improving both my technical skills and the way I approach problem-solving.
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/rafifr" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:mrafifirdaus1106@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://instagram.com/rafifr_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-1DA1F2?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://github.com/rafifrdz" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-1DA1F2?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
-  <a href="https://www.tiktok.com/@rfiiif" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-1DA1F2?style=flat-square&logo=tiktok&logoColor=white" alt="tiktok" /></a>
-</p>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-#### **Languages & Fundamentals**
+## 🧬 `> whoami`
+
+```js
+const rafi = {
+  name: "Rafi Firdaus",
+  title: "Fullstack Engineer & AI Architect",
+  location: "Indonesia 🇮🇩",
+  education: "Information Technology",
+  currentFocus: "Building the future with AI",
+  funFact: "I mass every language like breakfast ☕",
+  motto: "If it compiles, ship it. If it doesn't, make it."
+};
+```
+
+> 💀 **I don't pick a stack — I AM the stack.**
+> From pixel-perfect frontends to bulletproof backends, cloud infra to AI pipelines — I do it all.
+
+<br clear="right"/>
+
+---
+
+## 🎯 Weapons of Mass Creation
+
+### 🖥️ **Frontend Mastery**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,sass,bootstrap,materialui,styledcomponents&perline=8" />
   </a>
 </p>
 
-#### **Frameworks & UI Libraries**
+### ⚙️ **Backend Domination**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,styledcomponents,emotion,framer,threejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,django,flask,fastapi,java,spring,go,rust,php,laravel,ruby,rails,cs,dotnet&perline=8" />
   </a>
 </p>
 
-#### **Frontend Tooling & Deployment**
+### 🗄️ **Database & Storage**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,pnpm,yarn,git,jest,cypress,vercel" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,prisma,sqlite,dynamodb,cassandra&perline=8" />
   </a>
 </p>
 
-#### **Design & Creative**
+### ☁️ **Cloud & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,nginx,linux,github,githubactions,gitlab,vercel,netlify,cloudflare&perline=8" />
   </a>
 </p>
 
-
-
-### Statistic
-
+### 📱 **Mobile & Desktop**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafifrdz&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafifrdz&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000" width="48%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,electron,tauri&perline=8" />
+  </a>
 </p>
 
-
-<p align="center">
-  <img src="footer.png" width="100%" />
+### 🎨 **Design & Creative**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender,threejs,unity,unreal&perline=8" />
+  </a>
 </p>
 
+### 🛠️ **Tools & Workflow**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,idea,git,bash,powershell,regex,postman,jest,cypress,selenium,webpack,vite,babel&perline=8" />
+  </a>
+</p>
 
+---
+
+## 🧠 AI Arsenal — I Command Them All
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" /><br/>
+<b>Anthropic Claude</b><br/>
+<sub>🧠 Reasoning God</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" /><br/>
+<b>Google Gemini</b><br/>
+<sub>🌌 Multimodal Beast</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+<b>OpenAI GPT</b><br/>
+<sub>💬 OG Mastermind</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /><br/>
+<b>GitHub Copilot</b><br/>
+<sub>🤖 Code Partner</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" /><br/>
+<b>Midjourney</b><br/>
+<sub>🎨 Art Generator</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Stable_Diff-FF6F00?style=for-the-badge&logo=stablediffusion&logoColor=white" /><br/>
+<b>Stable Diffusion</b><br/>
+<sub>🖼️ Image Wizard</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+<b>LangChain</b><br/>
+<sub>🔗 AI Orchestrator</sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" /><br/>
+<b>Hugging Face</b><br/>
+<sub>🤗 Model Hub</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎮 When I'm Not Coding, I'm Fragging
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/VALORANT-FA4454?style=for-the-badge&logo=valorant&logoColor=white" width="180"/><br/>
+<b>⚡ VALORANT</b><br/>
+<sub>Headshots > Homework</sub><br/>
+<sub>🎯 Aim like an aimbot, think like a genius</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" width="180"/><br/>
+<b>⛏️ MINECRAFT</b><br/>
+<sub>Redstone Engineer</sub><br/>
+<sub>🏗️ Building empires block by block</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/GTA_V-E1A028?style=for-the-badge&logo=rockstargames&logoColor=white" width="180"/><br/>
+<b>🚗 GTA V</b><br/>
+<sub>Los Santos Legend</sub><br/>
+<sub>💰 CEO of chaos</sub>
+</td>
+</tr>
+</table>
+
+```
+  ╔══════════════════════════════════════════════════╗
+  ║  🎮 VALORANT MAIN: Jett / Reyna / Chamber       ║
+  ║  🏆 "I code like I play — aggressive & precise" ║
+  ╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 GitHub War Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rafifrdz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&text_color=c9d1d9&icon_color=8000ff&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafifrdz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0040&text_color=c9d1d9&langs_count=10" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rafifrdz&theme=radical&hide_border=true&background=0d1117&stroke=ff0040&ring=8000ff&fire=ff0040&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafifrdz&bg_color=0d1117&color=8000ff&line=ff0040&point=00d4ff&area=true&area_color=8000ff&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafifrdz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rafifrdz/Rafifrdz/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+## 📬 Hit Me Up
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rafifr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mrafifirdaus1106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/rafifr_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/rafifrdz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@rfiiif"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+
+<br/><br/>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   "Talk is cheap. Show me the code." — Linus Torvalds         ║
+║   "But I'll show you the whole damn system." — Rafi Firdaus   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0040,50:8000ff,100:00d4ff&height=120&section=footer" width="100%" />
