@@ -122,10 +122,15 @@ const rafi = {
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rafifrdz/Rafifrdz/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafifrdz&theme=radical" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafifrdz&theme=radical&utcOffset=7" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafifrdz&theme=radical" width="49%" />
 </div>
 
 ---
