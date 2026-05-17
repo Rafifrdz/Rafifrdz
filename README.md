@@ -85,6 +85,8 @@ const rafi = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,neovim,idea,git,bash,powershell,regex,postman,jest,cypress,selenium,webpack,vite,babel&perline=8" />
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/VALORANT-FA4454?style=for-the-badge&logo=riotgames&logoColor=white" />
 </p>
 
 
