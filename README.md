@@ -4,16 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0040,50:8000ff,100:00d4ff&height=220&section=header&text=RAFI%20FIRDAUS&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🔥%20Fullstack%20Engineer%20•%20AI%20Architect%20•%20Cyber%20Enthusiast%20🔥&descAlignY=55&descSize=18" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8000FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%92%80+I+Don't+Just+Write+Code%2C+I+Engineer+Universes;%F0%9F%A7%A0+AI+Whisperer+%7C+Full+Stack+Dominator+%7C+Gamer;%F0%9F%94%A5+If+It+Exists%2C+I+Can+Build+It.+Period." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=8000FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=%F0%9F%92%80+I+Don't+Just+Write+Code%2C+I+Engineer+Universes;%F0%9F%A7%A0+AI+Whisperer+%7C+Full+Stack+Dominator;%F0%9F%94%A5+If+It+Exists%2C+I+Can+Build+It.+Period." alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Rafifrdz&label=PROFILE+STALKERS&color=blueviolet&style=for-the-badge" />
-<a href="https://github.com/Rafifrdz?tab=followers"><img src="https://img.shields.io/github/followers/Rafifrdz?label=Followers&style=for-the-badge&color=ff0040&labelColor=1a1a2e" /></a>
-<a href="https://github.com/Rafifrdz?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-Check%20Them-00d4ff?style=for-the-badge&labelColor=1a1a2e" /></a>
-
 </div>
+
 
 ---
 
